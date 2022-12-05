@@ -7,6 +7,7 @@ My name is Derrick Gozal, a grad student currently taking Quantitative Methods i
 ## Skills
 ![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visuals-Power BI-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
 
