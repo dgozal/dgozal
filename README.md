@@ -7,8 +7,10 @@ My name is Derrick Gozal, a grad student currently taking Quantitative Methods i
 ## Skills
 ![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=<RStudio>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visuals-Power_BI-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Program-Stata-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Stata-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Bloomberg_Terminal-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GIS-QGIS-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GIS-GeoDa-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
 
