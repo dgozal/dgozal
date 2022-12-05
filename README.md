@@ -4,7 +4,7 @@ My name is Derrick Gozal, a grad student currently taking Quantitative Methods i
 
 ## Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,![python](https://user-images.githubusercontent.com/119893729/205753518-537bbd2c-410b-4909-9549-f47cdda4b69b.svg))
 
 
