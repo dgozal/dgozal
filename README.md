@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Derrick Gozal and I'm currently a grad student taking Quantitative Methods in the Social Sciences at Columbia University. I am an expert dilettante and well-versed in the art of decision paralysis. I have for the last several years for instance, been unable to decide whether I should throw the towel and focus on Economics, Politics, History, Philosophy, or Literature. So I do the next best thing instead and try to do all of them (with an added dose of data science and programming for good measure). I am very much interested in any interdisciplinary work that stands at the intersection of all the above mentioned fields!  
+
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+
 <!--
 **dgozal/dgozal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
